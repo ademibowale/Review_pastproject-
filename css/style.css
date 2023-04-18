@@ -43,6 +43,14 @@ ul {
     line-height: 1.6;
 }
 
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
 li {
     margin: 20px 0;
 }
